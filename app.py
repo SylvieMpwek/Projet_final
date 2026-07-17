@@ -87,7 +87,7 @@ with st.sidebar:
     - NDVI
     """)
     st.markdown("---")
-    st.caption(" Projet Data Science - UMIE/DRC")
+    st.caption(" Projet Data Science /DRC")
 
 # En-tête principal
 st.markdown('<p class="main-header"> Prédiction des cas confirmés d\'Ebola</p>', unsafe_allow_html=True)
@@ -235,6 +235,6 @@ if submitted:
 st.divider()
 col_footer1, col_footer2 = st.columns([2, 1])
 with col_footer1:
-    st.caption(" Développé dans le cadre du projet de Data Science - UMIE/DRC")
+    st.caption(" Développé dans le cadre du projet de Data Science /DRC")
 with col_footer2:
     st.caption("[ Voir le code source](https://github.com/votre-username/projet-ebola)")
