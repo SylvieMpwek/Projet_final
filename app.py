@@ -237,4 +237,4 @@ col_footer1, col_footer2 = st.columns([2, 1])
 with col_footer1:
     st.caption(" Développé dans le cadre du projet de Data Science /DRC")
 with col_footer2:
-    st.caption("[ Voir le code source](https://github.com/votre-username/projet-ebola)")
+    st.caption("[ Voir le code source](https://github.com/SylvieMpwek/Projet_final.git)")
